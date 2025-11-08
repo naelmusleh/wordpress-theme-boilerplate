@@ -1,10 +1,5 @@
-# Temporary files
-.DS_Store
-
-# Project folders
 node_modules/
-public/
-
-# Log files
-npm-debug.log
-vendor
+dist/
+*.log
+npm-debug.log*
+.DS_Store
